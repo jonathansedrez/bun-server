@@ -1,6 +1,7 @@
 {
   "scripts": {
-    "dev": "bun run --hot src/index.js"
+    "dev": "bun run --hot src/index.js",
+    "start": "bun run index.ts"
   },
   "dependencies": {},
   "devDependencies": {}
