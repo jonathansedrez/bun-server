@@ -1,7 +1,7 @@
 # TODO
 
 - [x] Health check
-- [ ] Get request
+- [x] Get request
 - [ ] Post request
 - [ ] HTML body
 
