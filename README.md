@@ -2,7 +2,7 @@
 
 - [x] Health check
 - [x] Get request
-- [ ] Post request
+- [x] Post request
 - [ ] HTML body
 
 ---
